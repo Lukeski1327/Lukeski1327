@@ -1,0 +1,5 @@
+- Hi, I’m @Lukeski1327
+- I’m interested in Software Engineering and Cyber Security
+- I’m currently learning Java and React
+- I'm a first year student and Purdue University Fort Wayne
+- Reach me at borklj01@pfw.edu
